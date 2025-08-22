@@ -1,0 +1,12 @@
+# Dependencias del Organizador de Órdenes de Compra
+# Para instalar: pip install -r requirements.txt
+
+# Manipulación de datos
+pandas>=1.5.0
+openpyxl>=3.0.9  # Para leer archivos Excel
+
+# Interfaz gráfica (incluida en Python estándar)
+# tkinter (ya incluido en Python)
+
+# Utilidades del sistema (incluidas en Python estándar)
+# pathlib, shutil, os, re, subprocess, platform (ya incluidos)
